@@ -1,3 +1,6 @@
+## Research interests
+Machine Learning Theory, Network Science, AI interpretability, Data Mining, Social networks, Cognitive Science
+
 ---
 title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=XL3fNAoAAAAJ&hl=en)"
 permalink: /publications/
