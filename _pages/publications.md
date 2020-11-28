@@ -2,7 +2,7 @@
 ## Research interests
 Machine Learning Theory, Network Science, AI interpretability, Data Mining, Social networks, Cognitive Science
 
-## Publication [(Google Scholar Profile)](https://scholar.google.com/citations?user=XL3fNAoAAAAJ&hl=en)
+## Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=XL3fNAoAAAAJ&hl=en)
 <b>[Balance maximization in signed networks via edge deletions](http://ksartik.github.io/publications/wsdm2021)</b> 
 <b>Kartik Sharma</b>, Iqra Altaf Gilani, Sourav Medya, Sayan Ranu, Amitabha Bagchi.
 <i>The 14th International Conference on Web Search and Data Mining</i>. <b>WSDM 2021</b>.
