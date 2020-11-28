@@ -4,11 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Reasearch interests</b>: Machine Learning Theory, Network Science, Social networks, Data Mining, Cognitive Science
----
-
-<br>
-<b>[Balance maximization in signed networks via edge deletions](http://ksartik.github.io/publications/wsdm2021)</b> <br> 
+<b>[Balance maximization in signed networks via edge deletions](http://ksartik.github.io/publications/wsdm2021)</b> 
 <b>Kartik Sharma</b>, Iqra Altaf Gilani, Sourav Medya, Sayan Ranu, Amitabha Bagchi.
 <i>The 14th International Conference on Web Search and Data Mining</i>. <b>WSDM 2021</b>.
 
