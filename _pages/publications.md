@@ -1,10 +1,10 @@
-<b>Reasearch interests</b>: Machine Learning Theory, Network Science, Social networks, Data Mining, Cognitive Science
----
-
 ---
 title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=XL3fNAoAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
+---
+
+<b>Reasearch interests</b>: Machine Learning Theory, Network Science, Social networks, Data Mining, Cognitive Science
 ---
 
 <br>
