@@ -1,18 +1,21 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=XL3fNAoAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>Reasearch interests</b>: Machine Learning Theory, Network Science, Social networks, Data Mining, Cognitive Science
+---
 
-{% include base_path %}
+<br>
+<b>[Balance maximization in signed networks via edge deletions](http://ksartik.github.io/publications/wsdm2021)</b> <br> 
+<b>Kartik Sharma</b>, Iqra Altaf Gilani, Sourav Medya, Sayan Ranu, Amitabha Bagchi.
+<i>The 14th International Conference on Web Search and Data Mining</i>. <b>WSDM 2021</b>.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[What determines order of verbal dependents in Hindi ?](http://ksartik.github.io/publications/cmcl2020)</b> <br> 
+<b>Kartik Sharma</b>, Richard Futrell, Samar Husain.
+<i>The 10th Workshop on Cognitive Modeling and Computational Linguistics</i>. <b>CMCL 2020</b>.
 
-<sup>*</sup> Equal authorship statement
+<b>[Can Greenbergian universals be induced from language networks ?](http://ksartik.github.io/publications/tlt2019)</b> <br> 
+<b>Kartik Sharma</b>, Kaivalya Swami, Aditya Shete, Samar Husain.
+<i>The 18th International Conference on Treebanks and Linguistic Theories</i>. <b>TLT 2019</b>.
