@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kartik Sharma"
   avatar           : "profile.png"
-  bio              : "Senior Undergraduate at Indian Institute of Technology Delhi"
+  bio              : "Senior Undergraduate at (Indian Institute of Technology Delhi)[https://home.iitd.ac.in/]"
   location         : "New Delhi, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=XL3fNAoAAAAJ"
-  email            :
+  email            : "kartik.sharma.cs117@cse.iitd.ac.in"
   researchgate     : "https://www.researchgate.net/profile/Kartik_Sharma22"
   uri              :
   bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  goodreads        : "https://www.goodreads.com/user/show/6088383-kartik"
 
 
 # Reading Files
