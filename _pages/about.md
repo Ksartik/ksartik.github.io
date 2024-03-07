@@ -24,10 +24,13 @@ and build machine learning (ML) models for structured data, which are reliable a
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 
-### (1) Measuring the reliability and alignment of ML models.
 
-### (2) Designing reliable and interpretable predictive models.
+#### (1) Measuring the reliability and alignment of ML models.
 
-### (3) Enabling user-controllable generation. 
+#### (2) Designing reliable and interpretable predictive models.
+
+#### (3) Enabling user-controllable generation. 
