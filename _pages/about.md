@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
+subtitle: searching for the blood flow... 
 
 profile:
   align: left

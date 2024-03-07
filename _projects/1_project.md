@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Efficient Verification of LLMs against Large Knowledge Graphs
-description: 
+description: Measuring structural alginment
 img: 
 importance: 
-category: Measuring ML alignment for structured data.
+category: work
 ---
 
 In an ongoing work, our objective is to efficiently find the alignment between large language
