@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Atlanta, GA 30309</p>
+    <p></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,6 +20,8 @@ I am a third-year Ph.D. student at Georgia Institute of Technology, being advise
 
 Through my research, my goal is to study
 and build machine learning (ML) models for structured data, which are reliable and can be easily controlled by the users. I have divided my research agenda into the following three directions. During my Ph.D. journey so far, I have explored specific research questions within these areas and am extremely enthusiastic to continue my exploration in the future.
+
+----
 
 ### (1) Measuring the reliability and alignment of ML models.
 
