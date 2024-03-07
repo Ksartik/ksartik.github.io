@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Atlanta, GA 30309</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year Ph.D. student at Georgia Institute of Technology, being advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~skumar498/). I have had the pleasure of spending the summers of 2023 at Visa Research in the lab of [Dr. Mahasweta Das](https://usa.visa.com/about-visa/visa-research/mahashweta-das.html). Before this, I graduated from IIT Delhi in 2021, where I was fortunate to be advised by [Prof. Sayan Ranu](https://www.cse.iitd.ac.in/~sayan/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Through my research, my goal is to study
+and build machine learning (ML) models for structured data, which are reliable and can be easily controlled by the users. I have divided my research agenda into the following three directions. During my Ph.D. journey so far, I have explored specific research questions within these areas and am extremely enthusiastic to continue my exploration in the future.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### (1) Measuring the reliability and alignment of ML models.
+
+### (2) Designing reliable and interpretable predictive models.
+
+### (3) Enabling user-controllable generation. 
