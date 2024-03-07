@@ -21,9 +21,13 @@ I am a third-year Ph.D. student at Georgia Institute of Technology, being advise
 Through my research, my goal is to study
 and build machine learning (ML) models for structured data, which are reliable and can be easily controlled by the users. During my Ph.D. journey so far, I have explored specific research questions within specific areas as listed below and am extremely enthusiastic to continue my exploration in the future.
 
+&nbsp;
+&nbsp;
+&nbsp;
 
-<!-- ### (1) Measuring the reliability and alignment of ML models.
+
+### (1) Measuring the reliability and alignment of ML models.
 
 ### (2) Designing reliable and interpretable predictive models.
 
-### (3) Enabling user-controllable generation.  -->
+### (3) Enabling user-controllable generation. 
