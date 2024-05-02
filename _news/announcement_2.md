@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at ACM CSUR 2024 [link](https://dl.acm.org/doi/10.1145/3661821).
+Paper accepted at ACM CSUR 2024 ([link](https://dl.acm.org/doi/10.1145/3661821)).
