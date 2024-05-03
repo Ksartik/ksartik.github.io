@@ -1,8 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
+# permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
 cv_pdf: resume_march3.pdf
+description: 
+toc:
+  sidebar: left
 ---

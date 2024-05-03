@@ -7,7 +7,7 @@ category: work
 
 Using GNNs to efficiently verify LLMs against large knowledge graphs. 
 
-In an ongoing work, our objective is to efficiently find the alignment between large language
+<!-- In an ongoing work, our objective is to efficiently find the alignment between large language
 models (LLMs) and large knowledge graphs. LLMs have been shown to suffer from
 hallucinations of unnecessary content that can be harmful. Thus, it is extremely important to
 pre-emptively identify and flag these failure cases before deployment. Knowledge graphs
@@ -18,4 +18,4 @@ GPT-3.5). In this work, we aim to find the missing facts in an LLM by asking as 
 queries as possible. To this end, we have designed a Graph Neural Network (GNN)-based
 architecture to approximate any LLM’s learned knowledge of the facts in a given knowledge
 graph based on the previous queries. This allows us to efficiently find missing facts in any
-off-the-shelf LLMs even over billion-sized databases by asking a minimal number of queries.
+off-the-shelf LLMs even over billion-sized databases by asking a minimal number of queries. -->
