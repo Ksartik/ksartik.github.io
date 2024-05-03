@@ -2,6 +2,8 @@
   "basics": {
     "name": "Kartik Sharma",
     "label": "Ph.D. student",
+    "image": "",
+    "summary": "",
     "email": "ksartik@gatech.edu",
     "phone": "(470) 437-2059",
     "url": "https://ksartik.github.io/",
@@ -113,5 +115,7 @@
       "name": "Prof. Sourav Medya",
       "reference": "Assistant Professor, UIC"
     }
+  ],
+  "projects": [
   ]
 }
