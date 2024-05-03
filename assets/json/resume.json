@@ -2,11 +2,9 @@
   "basics": {
     "name": "Kartik Sharma",
     "label": "Ph.D. student",
-    "image": "",
     "email": "ksartik@gatech.edu",
     "phone": "(470) 437-2059",
     "url": "https://ksartik.github.io/",
-    "summary": "",
     "location": {
       "city": "Atlanta",
       "countryCode": "US",
@@ -116,6 +114,4 @@
       "reference": "Assistant Professor, UIC"
     }
   ],
-  "projects": [
-  ]
 }
