@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished an internship with the Regulatory Compliance Science team at Amazon. 
+Finished my internship with the Regulatory Compliance Science team at Amazon. 

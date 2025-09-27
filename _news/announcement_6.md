@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at EMNLP 2025 (main)!
+Two papers accepted at EMNLP 2025 ([main](https://openreview.net/forum?id=zHx0Hj9VlM) and [findings](https://openreview.net/forum?id=HDtWCfgWcy))!
