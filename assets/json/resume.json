@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kartik Sharma",
-    "label": "Ph.D. student",
+    "label": "Ph.D. candidate",
     "image": "",
     "summary": "",
     "email": "ksartik@gatech.edu",
@@ -22,11 +22,27 @@
   },
   "work": [
     {
+      "name": "Amazon Science",
+      "position": "Applied Scientist Intern",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Developed an automatic prompt-tuning method to tune class definitions that enhances zero-shot classification of textual data (submitted to internal AMLC workshop).",
+      "highlights": ["Large language models", "Classification"]
+    },
+    {
+      "name": "Microsoft Research",
+      "position": "Research Intern",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Developed an ontology-grounded retrieval augmented generation method for effective and efficient domain adaptation (submitted to EMNLP 2025).",
+      "highlights": ["Retrieval-augmented Generation", "Domain Adaptation", "Hypergraph"]
+    },
+    {
       "name": "Visa Research",
       "position": "Research Intern",
       "startDate": "2023-05",
       "endDate": "2023-08",
-      "summary": "Developed a plug-and-play method to classify nodes using a personalized scope of its local neighborhood. Experiments show improved robustness, interpretability, and heterophily performance (submitted to ICML 2024).",
+      "summary": "Developed a plug-and-play method to classify nodes using a personalized scope of its local neighborhood. Experiments show improved robustness, interpretability, and heterophily performance (accepted at TMLR 2025).",
       "highlights": ["Interpretability", "Graph Neural Networks"]
     },
     {
