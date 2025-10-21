@@ -50,11 +50,11 @@ layout: default
 
     <!-- Embedded PDF -->
     {% if page.pdf_image %}
-      <h2 class="mt-5 mb-3">{{ page.pdf_title | default: "Curriculum Vitae" }}</h2>
+      <h2 class="mt-5 mb-3">{{ page.pdf_title | default: "research overview" }}</h2>
       <div class="pdf-image" style="text-align: center;">
         <img
           src="{{ page.pdf_image | relative_url }}"
-          alt="Preview of {{ page.pdf_title | default: 'Curriculum Vitae' }}"
+          alt="Preview of {{ page.pdf_title | default: 'research overview' }}"
           style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"
         />
         <p style="margin-top: 0.75em;">
