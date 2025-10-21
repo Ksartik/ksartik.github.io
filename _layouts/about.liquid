@@ -50,15 +50,33 @@ layout: default
 
     <!-- Embedded PDF -->
     {% if page.pdf %}
-      <h2>{{ page.pdf_title | default: "Research Overview" }}</h2>
-      <div class="pdf-container" style="margin: 1.5em 0;">
+      <h2 class="mt-5 mb-3">{{ page.pdf_title | default: "research overview" }}</h2>
+      <div class="pdf-wrapper" style="
+        position: relative;
+        width: 100%;
+        padding-top: 141.4%; /* A4 aspect ratio (1:1.414) */
+        overflow: hidden;
+        border-radius: 12px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        background: #f8f9fa;
+      ">
         <iframe
           src="{{ page.pdf | relative_url }}"
-          width="100%"
-          height="800px"
-          style="border: none; box-shadow: 0 0 10px rgba(0,0,0,0.1);"
+          title="PDF Viewer"
+          style="
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            border: none;
+            border-radius: 12px;
+          "
         ></iframe>
       </div>
+      <p style="text-align: center; margin-top: 0.75em;">
+        <a href="{{ page.pdf | relative_url }}" target="_blank" style="text-decoration: none;">
+          🔗 Open full PDF in new tab
+        </a>
+      </p>
     {% endif %}
 
     <!-- Selected papers -->
