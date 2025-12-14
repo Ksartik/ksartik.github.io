@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at ICML 2024 (paper and code coming soon!). See you in Vienna!
+Paper accepted at ICML 2024 ([website](https://prodigy-diffusion.github.io/)).

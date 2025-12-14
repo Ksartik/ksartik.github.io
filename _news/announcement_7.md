@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at NeurIPS 2025 (spotlight)! Paper and code coming soon!
+Paper accepted at NeurIPS 2025 (spotlight)! [Website](https://mimic-research.github.io/)
