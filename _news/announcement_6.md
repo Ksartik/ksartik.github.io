@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted at EMNLP 2025 ([main](https://openreview.net/forum?id=zHx0Hj9VlM) and [findings](https://openreview.net/forum?id=HDtWCfgWcy))!
+Two papers accepted at EMNLP 2025 ([main](https://aclanthology.org/2025.emnlp-main.1674/) and [findings](https://aclanthology.org/2025.findings-emnlp.1357/))!
